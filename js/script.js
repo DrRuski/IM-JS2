@@ -116,6 +116,37 @@ const intervalTest = setInterval(timerSet, timerCount);
 
 
 
+// const counter = document.querySelector(".counter");
+// const inputs = document.querySelector(".inputs");
+// const btn = document.querySelector("button");
+// let count = 0;
+
+
+
+// btn.onmousedown = function(){
+
+//     inputs.innerHTML += `${count}`;
+
+//     const setInt = setInterval(function(){
+//         count++;
+//         counter.innerHTML = count;
+    
+//     btn.onmouseup = function(){
+//         for (let i = 0; i < count; i++){
+//             inputs.innerHTML += `<input ${count}>`;
+//         }
+//         clearInterval(setInt);
+//         count=0;
+//         counter.innerHTML = 0; 
+//     };
+    
+//     }, 500);
+//    }
+
+
+
+
+
 
 
 
